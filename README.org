@@ -4,6 +4,6 @@ cl-cffi-graphene is a Lisp binding to the Graphene library.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-graphene.git |
-| commit  | 9068eee                                              |
+| commit  | ae73f29                                              |
 | systems | cl-cffi-graphene                                     |
 |---------+------------------------------------------------------|
